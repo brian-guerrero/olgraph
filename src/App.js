@@ -1,4 +1,3 @@
-import "./App.css";
 import SearchBooks from "./component/SearchBooks";
 
 function App() {
