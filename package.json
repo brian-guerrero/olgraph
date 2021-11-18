@@ -2,6 +2,7 @@
   "name": "olgraph",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://brian-guerrero.github.io/olgraph",
   "dependencies": {
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
