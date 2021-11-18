@@ -21,7 +21,7 @@ function SearchBooks() {
         setSearchResultsPage(1);
       }
       fetch(
-        `http://openlibrary.org/search.json?q=${searchPhrase.replace(
+        `https://openlibrary.org/search.json?q=${searchPhrase.replace(
           /\s/g,
           "+"
         )}&page=${searchResultsPage}`
